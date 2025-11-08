@@ -1,12 +1,4 @@
-<img width="735" height="325" alt="hello" src="https://github.com/user-attachments/assets/53a702c2-432a-4df5-a8c4-a335efa5d5d7" />
-Hi there 👋
-
-<!--
-**ayesha021/ayesha021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
+<img width="425" height="170" alt="ascii-art-text" src="https://github.com/user-attachments/assets/4337d554-ff4f-4544-a015-7827d37193db" />
 󠁯•󠁏 Active participant in programming challenges and problem-solving tasks.
 󠁯•󠁏 Currently solving problems on LeetCode.
 󠁯•󠁏 Pursuing a BSCS at KCWU (currently in the third semester).
