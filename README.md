@@ -1,6 +1,6 @@
 # Hi, I'm Ayesha Aamir
-<div align="center">
 ```
+<div align="center">
       ___           ___           ___       ___       ___     
      /\__\         /\  \         /\__\     /\__\     /\  \    
     /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
