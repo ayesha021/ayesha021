@@ -1,4 +1,17 @@
-<img width="425" height="170" alt="ascii-art-text" src="https://github.com/user-attachments/assets/4337d554-ff4f-4544-a015-7827d37193db" />
+      ___           ___           ___       ___       ___     
+     /\__\         /\  \         /\__\     /\__\     /\  \    
+    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+ /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+ \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+     \/__/         \/__/         \/__/     \/__/     \/__/    
+
+
+ABOUT ME:
 󠁯•󠁏 Active participant in programming challenges and problem-solving tasks.
 󠁯•󠁏 Currently solving problems on LeetCode.
 󠁯•󠁏 Pursuing a BSCS at KCWU (currently in the third semester).
